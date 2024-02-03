@@ -9,7 +9,7 @@ const Input: FC<InputProps> = ({ name, label, ...rest }) => {
     return (
         <div className="input-wrapper">
             <label htmlFor={name}>{label}</label>
-            <Input id={name}></Input>
+            <input id={name}></input>
         </div>
     )
 };

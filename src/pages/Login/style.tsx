@@ -24,3 +24,8 @@ export const Logomarca = styled.img `
     width: 50%;
     height: 100vh;
 `
+
+export const Botao = styled.img `
+    width: 50%;
+    height: 100vh;
+`
